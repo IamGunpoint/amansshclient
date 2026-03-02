@@ -5,7 +5,7 @@ import pty from "node-pty"
 import os from "os"
 
 const SERVER =
-  "wss://YOURDOMAIN.onrender.com/agent" // CHANGE THIS
+  "wss://amanssh.onrender.com/agent" // CHANGE THIS
 
 const shell =
   process.env.SHELL ||
