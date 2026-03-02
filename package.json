@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "bin": {
-    "amanssh": "./amanssh.js"
+    "ssh": "./ssh.js"
   },
   "dependencies": {
     "ws": "^8.16.0",
