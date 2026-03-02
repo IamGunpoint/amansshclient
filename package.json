@@ -1,0 +1,12 @@
+{
+  "name": "amanssh",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "amanssh": "./amanssh.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0",
+    "node-pty": "^1.0.0"
+  }
+}
